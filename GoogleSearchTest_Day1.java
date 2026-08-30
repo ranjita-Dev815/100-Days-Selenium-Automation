@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class GoogleSearchTest_Day1 {
+public class GoogleSearchTest {
 
     WebDriver driver;
     WebDriverWait wait;
@@ -31,7 +31,7 @@ public class GoogleSearchTest_Day1 {
     }
 
     @Test
-    public void GoogleSearchTest_Day1() {
+    public void GoogleSearchTest() {
 
         WebElement searchBox =
                 wait.until(ExpectedConditions.visibilityOfElementLocated(By.name("q")));
