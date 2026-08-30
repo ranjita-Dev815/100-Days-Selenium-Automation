@@ -19,4 +19,8 @@ My 100 Days of Code journey focused on Selenium QA Automation.
 6. Close browser
 
 ### ✅ Result
+
+### Test Execution Screenshot
+
+![Day 1 Selenium Google Search](SeleniumGooglesearch.png)
 Test Passed Successfully 🎉
