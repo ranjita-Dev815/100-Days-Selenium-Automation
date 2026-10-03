@@ -1,8 +1,4 @@
-# 🚀 100 Days Selenium QA Automation
-
-My 100 Days of Code journey focused on Selenium QA Automation.
-
-## Day 1 - Google Search Automation
+ Google Search Automation
 
 ### 🛠️ Technologies
 - Java
